@@ -1,0 +1,13 @@
+C:\Users\aashw\source\repos\DotNetCore\bin\Debug\netcoreapp3.1\DotNetCore.exe
+C:\Users\aashw\source\repos\DotNetCore\bin\Debug\netcoreapp3.1\DotNetCore.deps.json
+C:\Users\aashw\source\repos\DotNetCore\bin\Debug\netcoreapp3.1\DotNetCore.runtimeconfig.json
+C:\Users\aashw\source\repos\DotNetCore\bin\Debug\netcoreapp3.1\DotNetCore.runtimeconfig.dev.json
+C:\Users\aashw\source\repos\DotNetCore\bin\Debug\netcoreapp3.1\DotNetCore.dll
+C:\Users\aashw\source\repos\DotNetCore\bin\Debug\netcoreapp3.1\DotNetCore.pdb
+C:\Users\aashw\source\repos\DotNetCore\obj\Debug\netcoreapp3.1\DotNetCore.csprojAssemblyReference.cache
+C:\Users\aashw\source\repos\DotNetCore\obj\Debug\netcoreapp3.1\DotNetCore.AssemblyInfoInputs.cache
+C:\Users\aashw\source\repos\DotNetCore\obj\Debug\netcoreapp3.1\DotNetCore.AssemblyInfo.cs
+C:\Users\aashw\source\repos\DotNetCore\obj\Debug\netcoreapp3.1\DotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\aashw\source\repos\DotNetCore\obj\Debug\netcoreapp3.1\DotNetCore.dll
+C:\Users\aashw\source\repos\DotNetCore\obj\Debug\netcoreapp3.1\DotNetCore.pdb
+C:\Users\aashw\source\repos\DotNetCore\obj\Debug\netcoreapp3.1\DotNetCore.genruntimeconfig.cache
