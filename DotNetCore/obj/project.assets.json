@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aashw\\source\\repos\\DotNetCore\\DotNetCore.csproj",
+      "projectUniqueName": "C:\\DotNetCore\\Project\\DotNetCore\\DotNetCore\\DotNetCore.csproj",
       "projectName": "DotNetCore",
-      "projectPath": "C:\\Users\\aashw\\source\\repos\\DotNetCore\\DotNetCore.csproj",
+      "projectPath": "C:\\DotNetCore\\Project\\DotNetCore\\DotNetCore\\DotNetCore.csproj",
       "packagesPath": "C:\\Users\\aashw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aashw\\source\\repos\\DotNetCore\\obj\\",
+      "outputPath": "C:\\DotNetCore\\Project\\DotNetCore\\DotNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aashw\\AppData\\Roaming\\NuGet\\NuGet.Config",

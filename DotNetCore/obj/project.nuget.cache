@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ECgKF3mHJVo5iv8RujMQzhR1eK5p3galz+TNq2J3pJR/VMum4hd3BNo7Z/Ol/sYOMjpBRHyxjfm2P8sJxxaqxQ==",
+  "dgSpecHash": "3UyRFXkb0Zdv8wHlh5cutggnzjLrd0P3TuKW1x7A1lWKvml9vYOW/A9SUmiIWMOft3OGlc4kjEDMbOZYTYWGvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aashw\\source\\repos\\DotNetCore\\DotNetCore.csproj",
+  "projectFilePath": "C:\\DotNetCore\\Project\\DotNetCore\\DotNetCore\\DotNetCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
