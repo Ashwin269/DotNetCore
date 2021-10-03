@@ -1,0 +1,13 @@
+C:\Navya\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\ToDoApplication.exe
+C:\Navya\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\ToDoApplication.deps.json
+C:\Navya\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\ToDoApplication.runtimeconfig.json
+C:\Navya\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\ToDoApplication.runtimeconfig.dev.json
+C:\Navya\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\ToDoApplication.dll
+C:\Navya\ToDoApplication\ToDoApplication\bin\Debug\netcoreapp3.1\ToDoApplication.pdb
+C:\Navya\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.csprojAssemblyReference.cache
+C:\Navya\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.AssemblyInfoInputs.cache
+C:\Navya\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.AssemblyInfo.cs
+C:\Navya\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.csproj.CoreCompileInputs.cache
+C:\Navya\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.dll
+C:\Navya\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.pdb
+C:\Navya\ToDoApplication\ToDoApplication\obj\Debug\netcoreapp3.1\ToDoApplication.genruntimeconfig.cache
