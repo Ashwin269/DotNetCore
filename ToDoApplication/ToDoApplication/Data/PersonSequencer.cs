@@ -6,7 +6,7 @@ namespace ToDoApplication.Data
 {
      public class PersonSequencer
     {
-        public static int personId = 0;
+        public static int personId=0;
         public static int nextPersonId()
         {
             personId++;

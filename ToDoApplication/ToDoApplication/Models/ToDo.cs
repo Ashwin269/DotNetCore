@@ -8,12 +8,15 @@ namespace ToDoApplication.Models
     {
         public readonly int todoId;
         public string description;
-        private bool done;
-        private Person assignee;
-        public Todo(int todoId, string description)
+        public bool done;
+        public Person assignee;
+        public Todo(int todoId, string description, Person assign, bool isDone)
         {
             this.todoId = todoId;
             this.description = description;
+            assignee = assign;
+            done = isDone;
         }
+
     }
 }

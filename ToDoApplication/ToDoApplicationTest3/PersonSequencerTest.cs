@@ -9,11 +9,11 @@ namespace ToDoApplicationTest3
         public void PersonSequencerSetId()
         {
             //Act
-             PersonSequencer.nextPersonId();
-             PersonSequencer.nextPersonId();
+            PersonSequencer.nextPersonId();
+            PersonSequencer.nextPersonId();
             //Assert
             Assert.Equal(2, PersonSequencer.personId);
-         }
+        }
 
         [Fact]
         public void PersonSequencerReSetId()
@@ -26,5 +26,5 @@ namespace ToDoApplicationTest3
             //Assert
             Assert.Equal(0, PersonSequencer.personId);
         }
-    } 
+    }
 }

@@ -10,8 +10,9 @@ namespace ToDoApplicationTest4
         {
             //Act
             TodoSequencer.nextToDoId();
+            TodoSequencer.nextToDoId();
             //Assert
-            Assert.Equal(1, TodoSequencer.todoId);
+            Assert.Equal(2, TodoSequencer.todoId);
         }
 
         [Fact]
@@ -23,6 +24,7 @@ namespace ToDoApplicationTest4
             TodoSequencer.Reset();
             //Assert
             Assert.Equal(0, TodoSequencer.todoId);
+
         }
     }
 }

@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoApplicationTest1", "ToD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoApplicationTest2", "ToDoApplicationTest2\ToDoApplicationTest2.csproj", "{FC37A703-A21B-460A-8DF4-293690957531}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoApplicationTest3", "ToDoApplicationTest3\ToDoApplicationTest3.csproj", "{242F46E8-5017-4A52-B2A5-833249432A55}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApplicationTest3", "ToDoApplicationTest3\ToDoApplicationTest3.csproj", "{242F46E8-5017-4A52-B2A5-833249432A55}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoApplicationTest4", "ToDoApplicationTest4\ToDoApplicationTest4.csproj", "{CBD34BC0-D74F-42F4-B47C-B1F4422E60FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApplicationTest4", "ToDoApplicationTest4\ToDoApplicationTest4.csproj", "{CBD34BC0-D74F-42F4-B47C-B1F4422E60FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject5", "XUnitTestProject5\XUnitTestProject5.csproj", "{3B336E75-E842-4403-BA35-90BA227CFC7C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApplicationTest5", "ToDoApplicationTest5\ToDoApplicationTest5.csproj", "{7BF8472C-2F5A-487A-A83C-99C0A45DAB88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApplicationTest6", "ToDoApplicationTest6\ToDoApplicationTest6.csproj", "{26294826-DB23-4E2B-8F22-1C8F1825267A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +43,14 @@ Global
 		{CBD34BC0-D74F-42F4-B47C-B1F4422E60FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBD34BC0-D74F-42F4-B47C-B1F4422E60FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBD34BC0-D74F-42F4-B47C-B1F4422E60FB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3B336E75-E842-4403-BA35-90BA227CFC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B336E75-E842-4403-BA35-90BA227CFC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3B336E75-E842-4403-BA35-90BA227CFC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3B336E75-E842-4403-BA35-90BA227CFC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF8472C-2F5A-487A-A83C-99C0A45DAB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF8472C-2F5A-487A-A83C-99C0A45DAB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF8472C-2F5A-487A-A83C-99C0A45DAB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF8472C-2F5A-487A-A83C-99C0A45DAB88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26294826-DB23-4E2B-8F22-1C8F1825267A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26294826-DB23-4E2B-8F22-1C8F1825267A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26294826-DB23-4E2B-8F22-1C8F1825267A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26294826-DB23-4E2B-8F22-1C8F1825267A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
